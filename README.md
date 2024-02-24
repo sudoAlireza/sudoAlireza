@@ -1,5 +1,23 @@
-### Hi there 👋
+### Hi, I'm Alireza Fathi 👋
 
+<div align=right>
+  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alirezafathi95/)](https://www.linkedin.com/in/alirezafathi95/) 
+</div>
+
+- 🔭 I’m currently working as a Back-End Developer at [Snapp! Shop](https://shop.snapp.ir/)
+- 🛠 Most technical challenges I solve with Python and FastAPI in the backend.
+- 🌱 I’m currently learning Golang and Fiber web framework.
+- 📫 How to reach me: alirezafathi.cs@gmail.com
+
+<br>
+
+<p align="center">
+<a href="https://github.com/sudoAlireza">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sudoAlireza&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sudoAlireza&layout=compact&langs_count=8&theme=nord&include_all_commits=true&count_private=true"/>
+</a>
+</p>
 <!--
 **sudoAlireza/sudoAlireza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
