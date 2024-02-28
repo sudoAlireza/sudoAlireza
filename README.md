@@ -3,6 +3,8 @@
 <div align=right>
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alirezafathi95/)](https://www.linkedin.com/in/alirezafathi95/) 
+[![Medium Badge](https://img.shields.io/badge/-medium-black?style=flat-square&logo=medium&logoColor=white&link=https://alirezafathi.medium.com/)](https://alirezafathi.medium.com/)
+
 </div>
 
 - 🔭 I’m currently working as a Back-End Developer at [Snapp! Shop](https://shop.snapp.ir/)
